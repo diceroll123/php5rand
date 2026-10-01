@@ -1,5 +1,7 @@
 # php5rand
 
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json?utm_source=badge)](https://codspeed.io/diceroll123/php5rand?utm_source=badge)
+
 A Rust crate that reproduces PHP5's `rand()`/`srand()` and `mt_rand()`/`mt_srand()` output bit-for-bit. Useful for replicating PHP5 seeded-random sequences (legacy compatibility, save-file/state reproduction, CTF and reverse-engineering work).
 
 ## Generators
